@@ -14,8 +14,8 @@ nginx:
     	varnish-backends:
       		backend1:
         		host:
-			port:
-			max-connections:
+				port:
+				max-connections:
 	      	backend2:
         		host:
 			port:
