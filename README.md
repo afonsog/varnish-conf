@@ -17,7 +17,7 @@ nginx:
 				port:
 				max-connections:
 	      	backend2:
-        			host:
+        		host:
 				port:
 				max-connections:
 	      	backendN:
