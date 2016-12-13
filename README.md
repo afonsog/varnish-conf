@@ -17,13 +17,13 @@ nginx:
 				port:
 				max-connections:
 	      	backend2:
-        		host:
-			port:
-			max-connections:
+        			host:
+				port:
+				max-connections:
 	      	backendN:
-			host:
-			port: 
-			max-connections:
+				host:
+				port: 
+				max-connections:
       		options: |
 ```
 
