@@ -1,0 +1,6 @@
+[template]
+src="default.vcl.tmpl"
+dest="/etc/varnish/default.vcl"
+keys = [
+  "/self"
+]
