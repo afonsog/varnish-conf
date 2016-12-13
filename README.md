@@ -13,7 +13,7 @@ nginx:
   	metadata:
     	varnish-backends:
       		backend1:
-        		host::
+        		host:
 			port:
 			max-connections:
 	      	backend2:
