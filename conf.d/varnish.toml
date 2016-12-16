@@ -1,8 +1,7 @@
 [template]
 src="default.vcl.tmpl"
-dest="/etc/varnish/new-default.vcl"
+dest="/etc/varnish/default.vcl"
 keys = [
   "/self"
 ]
 
-reload_cmd = "/bin/ash /usr/bin/varnish_reload"
